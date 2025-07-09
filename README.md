@@ -6,7 +6,7 @@
 
 For MergeFund's launch, they held a contest for users to submit their most creative "Hello World" program!
 
---> My submission was a retro browser game where you shoot down letters to spell "Hello MergeFund". Winners get a firework display!
+* My submission was a retro browser game where you shoot down letters to spell "Hello MergeFund". Winners get a firework display!
 
 ![Demo](demo.gif)
 
